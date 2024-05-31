@@ -14,7 +14,7 @@ allprojects {
  **在 app 的 build.gradle 文件中找到 dependencies{} 代码块，并在其中加入以下语句：** 
 
 ```
-implementation 'com.github.uaoan:UaoanTool:1.0'
+implementation 'com.github.uaoan:UaoanTool:1.0.1'
 implementation 'com.github.youlookwhat:ByRecyclerView:1.3.6'
 implementation 'androidx.viewpager2:viewpager2:1.1.0-beta01'
 implementation 'com.tencent:mmkv-static:1.3.0'
