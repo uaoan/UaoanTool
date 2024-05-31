@@ -20,6 +20,7 @@ implementation 'androidx.viewpager2:viewpager2:1.1.0-beta01'
 implementation 'com.tencent:mmkv-static:1.3.0'
 ```
 
-### [ByRecyclerView封装例子](https://github.com/uaoan/UaoanTool/blob/master/UaoanLibrary/src/main/java/com/uaoanlao/uaoanlibrary/RecyclerView/UaoanByRecyclerView.java)
+### [ByRecyclerView封装例子](https://github.com/uaoan/UaoanTool/blob/master/UaoanLibrary/src/main/java/com/uaoanlao/uaoanlibrary/ByRecyclerView/UaoanByRecyclerView.java)
+### [RecyclerView封装例子](https://github.com/uaoan/UaoanTool/blob/master/UaoanLibrary/src/main/java/com/uaoanlao/uaoanlibrary/RecyclerView/UaoanRecyclerView.java)
 ### [ViewPager2封装例子](https://github.com/uaoan/UaoanTool/blob/master/UaoanLibrary/src/main/java/com/uaoanlao/uaoanlibrary/ViewPager2/UaoanViewPager2.java)
 ### [MMKV封装例子](https://github.com/uaoan/UaoanTool/blob/master/UaoanLibrary/src/main/java/com/uaoanlao/uaoanlibrary/UaoanMMKV.java)
