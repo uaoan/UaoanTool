@@ -75,7 +75,7 @@ public class UaoanRecyclerView {
     //设置适配器
     public UaoanRecyclerView setAdapter(RecyclerView byRecyclerView, int lay, ArrayList<HashMap<String, Object>> arrayList, OnRecyclerViewAdapter onByRecyclerViewAdapter){
         onByRecyclerViewAdapters=onByRecyclerViewAdapter;
-        byRecyclerView.setAdapter(new UaoanByRecyclerViewAdapter(lay,arrayList));
+        byRecyclerView.setAdapter(new UaoanRecyclerViewAdapter(byRecyclerView.getContext(), lay,arrayList));
         return this;
     }
 
